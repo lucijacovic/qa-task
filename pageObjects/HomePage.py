@@ -1,5 +1,15 @@
 from selenium.webdriver.common.by import By
 
+# tablet: 1366×768
+# same class names as desktop
+
+# mobile: 360×640
+# driver.set_window_size(360, 640)
+# different class names
+# nyheter: //div[@class="c-frontpagemobilenav__dropdown js-subnav-item" only one on mobile resolution, no podcast
+# categories: //div[@class="c-frontpagemobilenav__dropdown js-subnav-item toggled"]/div/ul/li
+# names: //div[@class="c-frontpagemobilenav__dropdown js-subnav-item toggled"]/div/ul/li/a/span
+
 
 class HomePage:
     def __init__(self, driver):
