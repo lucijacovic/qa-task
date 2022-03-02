@@ -20,8 +20,14 @@ def setup(request):
     elif browser_name == "IE":
         driver = webdriver.Ie(executable_path="C:\\IEDriverServer.exe")
     driver.get("https://finansavisen.no/")
-    driver.maximize_window()
+    # window_size = request.config.getoption("--window_size")
+    # if window_size == "desktop":
+    #   driver.maximize_window()
+    # elif window_size == "mobile":
+    #   driver.set_window_size(360, 640) #ali kako ce test znat? poseban test, poseban HomePage?
+    driver.maximize_window() # insert options for different window sizes, same as for browser
     request.cls.driver = driver
+    # driver.set_window_size(360, 640)
     yield
     driver.close()
 

@@ -19,3 +19,286 @@
 2022-03-01 18:59:03,523 : INFO : test_news : Shipping
 2022-03-01 18:59:03,602 : INFO : test_news : Sjømat
 2022-03-01 18:59:03,672 : INFO : test_news : Blogg
+2022-03-02 16:47:23,044 : INFO : test_newsDesktop : Accepting cookies
+2022-03-02 16:47:23,910 : INFO : test_newsDesktop : Hovering over Nyheter
+2022-03-02 16:47:24,330 : INFO : test_newsDesktop : Getting all categories
+2022-03-02 16:47:24,435 : INFO : test_newsDesktop : Siste 24 timer
+2022-03-02 16:47:24,497 : INFO : test_newsDesktop : Alle pluss-artikler
+2022-03-02 16:47:24,552 : INFO : test_newsDesktop : Leder
+2022-03-02 16:47:24,613 : INFO : test_newsDesktop : Børsoppdatering
+2022-03-02 16:47:24,668 : INFO : test_newsDesktop : Bolig
+2022-03-02 16:47:24,719 : INFO : test_newsDesktop : Børs
+2022-03-02 16:47:24,782 : INFO : test_newsDesktop : Energi
+2022-03-02 16:47:24,850 : INFO : test_newsDesktop : Finans
+2022-03-02 16:47:24,895 : INFO : test_newsDesktop : Personlig økonomi
+2022-03-02 16:47:24,937 : INFO : test_newsDesktop : Shipping
+2022-03-02 16:47:24,984 : INFO : test_newsDesktop : Sjømat
+2022-03-02 16:47:25,028 : INFO : test_newsDesktop : Blogg
+2022-03-02 16:48:20,468 : INFO : test_newsDesktop : Accepting cookies
+2022-03-02 16:48:21,407 : INFO : test_newsDesktop : Hovering over Nyheter
+2022-03-02 16:48:21,787 : INFO : test_newsDesktop : Getting all categories
+2022-03-02 16:48:21,841 : INFO : test_newsDesktop : Siste 24 timer
+2022-03-02 16:48:21,876 : INFO : test_newsDesktop : Alle pluss-artikler
+2022-03-02 16:48:21,911 : INFO : test_newsDesktop : Leder
+2022-03-02 16:48:21,954 : INFO : test_newsDesktop : Børsoppdatering
+2022-03-02 16:48:21,990 : INFO : test_newsDesktop : Bolig
+2022-03-02 16:48:22,026 : INFO : test_newsDesktop : Børs
+2022-03-02 16:48:22,076 : INFO : test_newsDesktop : Energi
+2022-03-02 16:48:22,128 : INFO : test_newsDesktop : Finans
+2022-03-02 16:48:22,186 : INFO : test_newsDesktop : Personlig økonomi
+2022-03-02 16:48:22,235 : INFO : test_newsDesktop : Shipping
+2022-03-02 16:48:22,278 : INFO : test_newsDesktop : Sjømat
+2022-03-02 16:48:22,325 : INFO : test_newsDesktop : Blogg
+2022-03-02 16:53:35,813 : INFO : test_newsDesktop : Accepting cookies
+2022-03-02 16:53:36,418 : INFO : test_newsDesktop : Hovering over Nyheter
+2022-03-02 16:53:38,156 : INFO : test_newsDesktop : Getting all categories
+2022-03-02 17:00:44,198 : INFO : test_newsDesktop : Accepting cookies
+2022-03-02 17:00:44,789 : INFO : test_newsDesktop : Hovering over Nyheter
+2022-03-02 17:00:45,115 : INFO : test_newsDesktop : Getting all categories
+2022-03-02 17:00:45,208 : INFO : test_newsDesktop : Siste 24 timer
+2022-03-02 17:00:45,237 : INFO : test_newsDesktop : Alle pluss-artikler
+2022-03-02 17:00:45,260 : INFO : test_newsDesktop : Leder
+2022-03-02 17:00:45,297 : INFO : test_newsDesktop : Børsoppdatering
+2022-03-02 17:00:45,334 : INFO : test_newsDesktop : Bolig
+2022-03-02 17:00:45,372 : INFO : test_newsDesktop : Børs
+2022-03-02 17:00:45,409 : INFO : test_newsDesktop : Energi
+2022-03-02 17:00:45,442 : INFO : test_newsDesktop : Finans
+2022-03-02 17:00:45,466 : INFO : test_newsDesktop : Personlig økonomi
+2022-03-02 17:00:45,491 : INFO : test_newsDesktop : Shipping
+2022-03-02 17:00:45,515 : INFO : test_newsDesktop : Sjømat
+2022-03-02 17:00:45,541 : INFO : test_newsDesktop : Blogg
+2022-03-02 17:15:16,593 : INFO : test_newsDesktop : Accepting cookies
+2022-03-02 17:15:16,779 : INFO : test_newsDesktop : Hovering over Nyheter
+2022-03-02 17:15:18,859 : INFO : test_newsDesktop : Getting all categories
+2022-03-02 17:15:18,932 : INFO : test_newsDesktop : Siste 24 timer
+2022-03-02 17:15:18,969 : INFO : test_newsDesktop : Alle pluss-artikler
+2022-03-02 17:15:19,007 : INFO : test_newsDesktop : Leder
+2022-03-02 17:15:19,040 : INFO : test_newsDesktop : Børsoppdatering
+2022-03-02 17:15:19,070 : INFO : test_newsDesktop : Bolig
+2022-03-02 17:15:19,094 : INFO : test_newsDesktop : Børs
+2022-03-02 17:15:19,117 : INFO : test_newsDesktop : Energi
+2022-03-02 17:15:19,138 : INFO : test_newsDesktop : Finans
+2022-03-02 17:15:19,162 : INFO : test_newsDesktop : Personlig økonomi
+2022-03-02 17:15:19,186 : INFO : test_newsDesktop : Shipping
+2022-03-02 17:15:19,210 : INFO : test_newsDesktop : Sjømat
+2022-03-02 17:15:19,234 : INFO : test_newsDesktop : Blogg
+2022-03-02 17:15:20,154 : INFO : test_newsMobile : Accepting cookies
+2022-03-02 17:16:44,291 : INFO : test_newsDesktop : Accepting cookies
+2022-03-02 17:16:44,812 : INFO : test_newsDesktop : Hovering over Nyheter
+2022-03-02 17:16:45,222 : INFO : test_newsDesktop : Getting all categories
+2022-03-02 17:16:45,287 : INFO : test_newsDesktop : Siste 24 timer
+2022-03-02 17:16:45,316 : INFO : test_newsDesktop : Alle pluss-artikler
+2022-03-02 17:16:45,341 : INFO : test_newsDesktop : Leder
+2022-03-02 17:16:45,369 : INFO : test_newsDesktop : Børsoppdatering
+2022-03-02 17:16:45,393 : INFO : test_newsDesktop : Bolig
+2022-03-02 17:16:45,419 : INFO : test_newsDesktop : Børs
+2022-03-02 17:16:45,445 : INFO : test_newsDesktop : Energi
+2022-03-02 17:16:45,468 : INFO : test_newsDesktop : Finans
+2022-03-02 17:16:45,491 : INFO : test_newsDesktop : Personlig økonomi
+2022-03-02 17:16:45,594 : INFO : test_newsDesktop : Shipping
+2022-03-02 17:16:45,635 : INFO : test_newsDesktop : Sjømat
+2022-03-02 17:16:45,667 : INFO : test_newsDesktop : Blogg
+2022-03-02 17:16:46,508 : INFO : test_newsMobile : Hovering over Nyheter
+2022-03-02 17:19:51,203 : INFO : test_newsDesktop : Accepting cookies
+2022-03-02 17:19:51,551 : INFO : test_newsDesktop : Hovering over Nyheter
+2022-03-02 17:19:52,000 : INFO : test_newsDesktop : Getting all categories
+2022-03-02 17:19:52,068 : INFO : test_newsDesktop : Siste 24 timer
+2022-03-02 17:19:52,094 : INFO : test_newsDesktop : Alle pluss-artikler
+2022-03-02 17:19:52,123 : INFO : test_newsDesktop : Leder
+2022-03-02 17:19:52,187 : INFO : test_newsDesktop : Børsoppdatering
+2022-03-02 17:19:52,228 : INFO : test_newsDesktop : Bolig
+2022-03-02 17:19:52,267 : INFO : test_newsDesktop : Børs
+2022-03-02 17:19:52,309 : INFO : test_newsDesktop : Energi
+2022-03-02 17:19:52,346 : INFO : test_newsDesktop : Finans
+2022-03-02 17:19:52,371 : INFO : test_newsDesktop : Personlig økonomi
+2022-03-02 17:19:52,399 : INFO : test_newsDesktop : Shipping
+2022-03-02 17:19:52,426 : INFO : test_newsDesktop : Sjømat
+2022-03-02 17:19:52,457 : INFO : test_newsDesktop : Blogg
+2022-03-02 17:19:52,746 : INFO : test_newsMobile : Hovering over Nyheter
+2022-03-02 17:21:08,258 : INFO : test_newsDesktop : Accepting cookies
+2022-03-02 17:21:08,739 : INFO : test_newsDesktop : Hovering over Nyheter
+2022-03-02 17:21:09,236 : INFO : test_newsDesktop : Getting all categories
+2022-03-02 17:21:09,320 : INFO : test_newsDesktop : Siste 24 timer
+2022-03-02 17:21:09,365 : INFO : test_newsDesktop : Alle pluss-artikler
+2022-03-02 17:21:09,403 : INFO : test_newsDesktop : Leder
+2022-03-02 17:21:09,432 : INFO : test_newsDesktop : Børsoppdatering
+2022-03-02 17:21:09,456 : INFO : test_newsDesktop : Bolig
+2022-03-02 17:21:09,485 : INFO : test_newsDesktop : Børs
+2022-03-02 17:21:09,510 : INFO : test_newsDesktop : Energi
+2022-03-02 17:21:09,535 : INFO : test_newsDesktop : Finans
+2022-03-02 17:21:09,560 : INFO : test_newsDesktop : Personlig økonomi
+2022-03-02 17:21:09,587 : INFO : test_newsDesktop : Shipping
+2022-03-02 17:21:09,612 : INFO : test_newsDesktop : Sjømat
+2022-03-02 17:21:09,635 : INFO : test_newsDesktop : Blogg
+2022-03-02 17:21:09,961 : INFO : test_newsMobile : Hovering over Nyheter
+2022-03-02 17:23:01,596 : INFO : test_newsDesktop : Accepting cookies
+2022-03-02 17:23:02,084 : INFO : test_newsDesktop : Hovering over Nyheter
+2022-03-02 17:23:02,487 : INFO : test_newsDesktop : Getting all categories
+2022-03-02 17:23:02,559 : INFO : test_newsDesktop : Siste 24 timer
+2022-03-02 17:23:02,582 : INFO : test_newsDesktop : Alle pluss-artikler
+2022-03-02 17:23:02,647 : INFO : test_newsDesktop : Leder
+2022-03-02 17:23:02,670 : INFO : test_newsDesktop : Børsoppdatering
+2022-03-02 17:23:02,694 : INFO : test_newsDesktop : Bolig
+2022-03-02 17:23:02,718 : INFO : test_newsDesktop : Børs
+2022-03-02 17:23:02,742 : INFO : test_newsDesktop : Energi
+2022-03-02 17:23:02,765 : INFO : test_newsDesktop : Finans
+2022-03-02 17:23:02,789 : INFO : test_newsDesktop : Personlig økonomi
+2022-03-02 17:23:02,813 : INFO : test_newsDesktop : Shipping
+2022-03-02 17:23:02,836 : INFO : test_newsDesktop : Sjømat
+2022-03-02 17:23:02,861 : INFO : test_newsDesktop : Blogg
+2022-03-02 17:23:03,675 : INFO : test_newsMobile : Hovering over Nyheter
+2022-03-02 17:24:46,069 : INFO : test_newsDesktop : Accepting cookies
+2022-03-02 17:24:46,519 : INFO : test_newsDesktop : Hovering over Nyheter
+2022-03-02 17:24:46,908 : INFO : test_newsDesktop : Getting all categories
+2022-03-02 17:24:46,962 : INFO : test_newsDesktop : Siste 24 timer
+2022-03-02 17:24:46,986 : INFO : test_newsDesktop : Alle pluss-artikler
+2022-03-02 17:24:47,008 : INFO : test_newsDesktop : Leder
+2022-03-02 17:24:47,032 : INFO : test_newsDesktop : Børsoppdatering
+2022-03-02 17:24:47,104 : INFO : test_newsDesktop : Bolig
+2022-03-02 17:24:47,127 : INFO : test_newsDesktop : Børs
+2022-03-02 17:24:47,151 : INFO : test_newsDesktop : Energi
+2022-03-02 17:24:47,176 : INFO : test_newsDesktop : Finans
+2022-03-02 17:24:47,201 : INFO : test_newsDesktop : Personlig økonomi
+2022-03-02 17:24:47,224 : INFO : test_newsDesktop : Shipping
+2022-03-02 17:24:47,249 : INFO : test_newsDesktop : Sjømat
+2022-03-02 17:24:47,282 : INFO : test_newsDesktop : Blogg
+2022-03-02 17:24:48,106 : INFO : test_newsMobile : Hovering over Nyheter
+2022-03-02 17:24:48,486 : INFO : test_newsMobile : Getting all categories
+2022-03-02 17:27:52,366 : INFO : test_newsDesktop : Accepting cookies
+2022-03-02 17:27:52,880 : INFO : test_newsDesktop : Hovering over Nyheter
+2022-03-02 17:27:53,308 : INFO : test_newsDesktop : Getting all categories
+2022-03-02 17:27:53,398 : INFO : test_newsDesktop : Siste 24 timer
+2022-03-02 17:27:53,424 : INFO : test_newsDesktop : Alle pluss-artikler
+2022-03-02 17:27:53,451 : INFO : test_newsDesktop : Leder
+2022-03-02 17:27:53,482 : INFO : test_newsDesktop : Børsoppdatering
+2022-03-02 17:27:53,509 : INFO : test_newsDesktop : Bolig
+2022-03-02 17:27:53,533 : INFO : test_newsDesktop : Børs
+2022-03-02 17:27:53,570 : INFO : test_newsDesktop : Energi
+2022-03-02 17:27:53,610 : INFO : test_newsDesktop : Finans
+2022-03-02 17:27:53,647 : INFO : test_newsDesktop : Personlig økonomi
+2022-03-02 17:27:53,687 : INFO : test_newsDesktop : Shipping
+2022-03-02 17:27:53,727 : INFO : test_newsDesktop : Sjømat
+2022-03-02 17:27:53,758 : INFO : test_newsDesktop : Blogg
+2022-03-02 17:27:54,802 : INFO : test_newsMobile : Hovering over Nyheter
+2022-03-02 17:27:55,234 : INFO : test_newsMobile : Getting all categories
+2022-03-02 17:33:39,167 : INFO : test_newsDesktop : Accepting cookies
+2022-03-02 17:33:39,593 : INFO : test_newsDesktop : Hovering over Nyheter
+2022-03-02 17:33:40,022 : INFO : test_newsDesktop : Getting all categories
+2022-03-02 17:33:40,071 : INFO : test_newsDesktop : Siste 24 timer
+2022-03-02 17:33:40,138 : INFO : test_newsDesktop : Alle pluss-artikler
+2022-03-02 17:33:40,169 : INFO : test_newsDesktop : Leder
+2022-03-02 17:33:40,205 : INFO : test_newsDesktop : Børsoppdatering
+2022-03-02 17:33:40,236 : INFO : test_newsDesktop : Bolig
+2022-03-02 17:33:40,268 : INFO : test_newsDesktop : Børs
+2022-03-02 17:33:40,300 : INFO : test_newsDesktop : Energi
+2022-03-02 17:33:40,324 : INFO : test_newsDesktop : Finans
+2022-03-02 17:33:40,348 : INFO : test_newsDesktop : Personlig økonomi
+2022-03-02 17:33:40,382 : INFO : test_newsDesktop : Shipping
+2022-03-02 17:33:40,460 : INFO : test_newsDesktop : Sjømat
+2022-03-02 17:33:40,518 : INFO : test_newsDesktop : Blogg
+2022-03-02 17:33:41,359 : INFO : test_newsMobile : Hovering over Nyheter
+2022-03-02 17:40:18,576 : INFO : test_newsDesktop : Accepting cookies
+2022-03-02 17:40:18,830 : INFO : test_newsDesktop : Hovering over Nyheter
+2022-03-02 17:40:20,505 : INFO : test_newsDesktop : Getting all categories
+2022-03-02 17:40:20,564 : INFO : test_newsDesktop : Siste 24 timer
+2022-03-02 17:40:20,593 : INFO : test_newsDesktop : Alle pluss-artikler
+2022-03-02 17:40:20,623 : INFO : test_newsDesktop : Leder
+2022-03-02 17:40:20,654 : INFO : test_newsDesktop : Børsoppdatering
+2022-03-02 17:40:20,682 : INFO : test_newsDesktop : Bolig
+2022-03-02 17:40:20,709 : INFO : test_newsDesktop : Børs
+2022-03-02 17:40:20,738 : INFO : test_newsDesktop : Energi
+2022-03-02 17:40:20,768 : INFO : test_newsDesktop : Finans
+2022-03-02 17:40:20,796 : INFO : test_newsDesktop : Personlig økonomi
+2022-03-02 17:40:20,824 : INFO : test_newsDesktop : Shipping
+2022-03-02 17:40:20,853 : INFO : test_newsDesktop : Sjømat
+2022-03-02 17:40:20,882 : INFO : test_newsDesktop : Blogg
+2022-03-02 17:40:21,180 : INFO : test_newsMobile : Hovering over Nyheter
+2022-03-02 17:42:21,920 : INFO : test_newsDesktop : Accepting cookies
+2022-03-02 17:42:22,379 : INFO : test_newsDesktop : Hovering over Nyheter
+2022-03-02 17:42:22,820 : INFO : test_newsDesktop : Getting all categories
+2022-03-02 17:42:22,884 : INFO : test_newsDesktop : Siste 24 timer
+2022-03-02 17:42:22,961 : INFO : test_newsDesktop : Alle pluss-artikler
+2022-03-02 17:42:22,991 : INFO : test_newsDesktop : Leder
+2022-03-02 17:42:23,020 : INFO : test_newsDesktop : Børsoppdatering
+2022-03-02 17:42:23,044 : INFO : test_newsDesktop : Bolig
+2022-03-02 17:42:23,072 : INFO : test_newsDesktop : Børs
+2022-03-02 17:42:23,098 : INFO : test_newsDesktop : Energi
+2022-03-02 17:42:23,124 : INFO : test_newsDesktop : Finans
+2022-03-02 17:42:23,149 : INFO : test_newsDesktop : Personlig økonomi
+2022-03-02 17:42:23,176 : INFO : test_newsDesktop : Shipping
+2022-03-02 17:42:23,204 : INFO : test_newsDesktop : Sjømat
+2022-03-02 17:42:23,230 : INFO : test_newsDesktop : Blogg
+2022-03-02 17:42:24,143 : INFO : test_newsMobile : Hovering over Nyheter
+2022-03-02 17:42:24,442 : INFO : test_newsMobile : Getting all categories
+2022-03-02 17:42:24,504 : INFO : test_newsMobile : Siste 24 timer
+2022-03-02 17:42:24,543 : INFO : test_newsMobile : Alle pluss-artikler
+2022-03-02 17:42:24,598 : INFO : test_newsMobile : Leder
+2022-03-02 17:42:24,647 : INFO : test_newsMobile : Børsoppdatering
+2022-03-02 17:42:24,683 : INFO : test_newsMobile : Bolig
+2022-03-02 17:42:24,718 : INFO : test_newsMobile : Børs
+2022-03-02 17:42:24,750 : INFO : test_newsMobile : Energi
+2022-03-02 17:42:24,781 : INFO : test_newsMobile : Finans
+2022-03-02 17:42:24,815 : INFO : test_newsMobile : Personlig økonomi
+2022-03-02 17:42:24,839 : INFO : test_newsMobile : Shipping
+2022-03-02 17:42:24,864 : INFO : test_newsMobile : Sjømat
+2022-03-02 17:42:24,887 : INFO : test_newsMobile : Blogg
+2022-03-02 17:48:32,149 : INFO : test_newsDesktop : Accepting cookies
+2022-03-02 17:48:32,644 : INFO : test_newsDesktop : Hovering over Nyheter
+2022-03-02 17:48:33,124 : INFO : test_newsDesktop : Getting all categories
+2022-03-02 17:48:33,163 : INFO : test_newsDesktop : Siste 24 timer
+2022-03-02 17:48:33,187 : INFO : test_newsDesktop : Alle pluss-artikler
+2022-03-02 17:48:33,212 : INFO : test_newsDesktop : Leder
+2022-03-02 17:48:33,236 : INFO : test_newsDesktop : Børsoppdatering
+2022-03-02 17:48:33,261 : INFO : test_newsDesktop : Bolig
+2022-03-02 17:48:33,286 : INFO : test_newsDesktop : Børs
+2022-03-02 17:48:33,312 : INFO : test_newsDesktop : Energi
+2022-03-02 17:48:33,383 : INFO : test_newsDesktop : Finans
+2022-03-02 17:48:33,410 : INFO : test_newsDesktop : Personlig økonomi
+2022-03-02 17:48:33,435 : INFO : test_newsDesktop : Shipping
+2022-03-02 17:48:33,461 : INFO : test_newsDesktop : Sjømat
+2022-03-02 17:48:33,486 : INFO : test_newsDesktop : Blogg
+2022-03-02 17:48:34,684 : INFO : test_newsMobile : Clicking on Nyheter
+2022-03-02 17:48:34,832 : INFO : test_newsMobile : Getting all categories
+2022-03-02 17:48:34,874 : INFO : test_newsMobile : Siste 24 timer
+2022-03-02 17:48:34,902 : INFO : test_newsMobile : Alle pluss-artikler
+2022-03-02 17:48:34,943 : INFO : test_newsMobile : Leder
+2022-03-02 17:48:34,976 : INFO : test_newsMobile : Børsoppdatering
+2022-03-02 17:48:35,009 : INFO : test_newsMobile : Bolig
+2022-03-02 17:48:35,043 : INFO : test_newsMobile : Børs
+2022-03-02 17:48:35,082 : INFO : test_newsMobile : Energi
+2022-03-02 17:48:35,119 : INFO : test_newsMobile : Finans
+2022-03-02 17:48:35,141 : INFO : test_newsMobile : Personlig økonomi
+2022-03-02 17:48:35,163 : INFO : test_newsMobile : Shipping
+2022-03-02 17:48:35,186 : INFO : test_newsMobile : Sjømat
+2022-03-02 17:48:35,250 : INFO : test_newsMobile : Blogg
+2022-03-02 17:50:57,049 : INFO : test_newsDesktop : Desktop/Tablet test:
+2022-03-02 17:50:57,050 : INFO : test_newsDesktop : Accepting cookies
+2022-03-02 17:50:57,547 : INFO : test_newsDesktop : Hovering over Nyheter
+2022-03-02 17:50:59,031 : INFO : test_newsDesktop : Getting all categories
+2022-03-02 17:50:59,087 : INFO : test_newsDesktop : Siste 24 timer
+2022-03-02 17:50:59,120 : INFO : test_newsDesktop : Alle pluss-artikler
+2022-03-02 17:50:59,146 : INFO : test_newsDesktop : Leder
+2022-03-02 17:50:59,170 : INFO : test_newsDesktop : Børsoppdatering
+2022-03-02 17:50:59,193 : INFO : test_newsDesktop : Bolig
+2022-03-02 17:50:59,218 : INFO : test_newsDesktop : Børs
+2022-03-02 17:50:59,251 : INFO : test_newsDesktop : Energi
+2022-03-02 17:50:59,295 : INFO : test_newsDesktop : Finans
+2022-03-02 17:50:59,344 : INFO : test_newsDesktop : Personlig økonomi
+2022-03-02 17:50:59,387 : INFO : test_newsDesktop : Shipping
+2022-03-02 17:50:59,424 : INFO : test_newsDesktop : Sjømat
+2022-03-02 17:50:59,466 : INFO : test_newsDesktop : Blogg
+2022-03-02 17:51:00,155 : INFO : test_newsMobile : Mobile test:
+2022-03-02 17:51:00,155 : INFO : test_newsMobile : Clicking on Nyheter
+2022-03-02 17:51:00,973 : INFO : test_newsMobile : Getting all categories
+2022-03-02 17:51:01,060 : INFO : test_newsMobile : Siste 24 timer
+2022-03-02 17:51:01,121 : INFO : test_newsMobile : Alle pluss-artikler
+2022-03-02 17:51:01,181 : INFO : test_newsMobile : Leder
+2022-03-02 17:51:01,216 : INFO : test_newsMobile : Børsoppdatering
+2022-03-02 17:51:01,246 : INFO : test_newsMobile : Bolig
+2022-03-02 17:51:01,282 : INFO : test_newsMobile : Børs
+2022-03-02 17:51:01,349 : INFO : test_newsMobile : Energi
+2022-03-02 17:51:01,421 : INFO : test_newsMobile : Finans
+2022-03-02 17:51:01,459 : INFO : test_newsMobile : Personlig økonomi
+2022-03-02 17:51:01,497 : INFO : test_newsMobile : Shipping
+2022-03-02 17:51:01,526 : INFO : test_newsMobile : Sjømat
+2022-03-02 17:51:01,558 : INFO : test_newsMobile : Blogg
