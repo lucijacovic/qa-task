@@ -1,15 +1,5 @@
 from selenium.webdriver.common.by import By
 
-# tablet: 1366×768
-# same class names as desktop
-
-# mobile: 360×640
-# driver.set_window_size(360, 640)
-# different class names
-# nyheter: //div[@class="c-frontpagemobilenav__dropdown js-subnav-item" only one dropdown on mobile resolution, no podcast
-# categories: //div[@class="c-frontpagemobilenav__dropdown js-subnav-item toggled"]/div/ul/li
-# names: //div[@class="c-frontpagemobilenav__dropdown js-subnav-item toggled"]/div/ul/li/a/span
-
 
 class HomePage:
     def __init__(self, driver):
@@ -17,7 +7,7 @@ class HomePage:
 
     cookies = (By.ID, "finansavisen-gdpr-disclaimer-confirm")
     news = (By.XPATH, "//div[@class='c-header-bar-nav__item__content js-header-item-content']")
-    # Nyheter[0] and Podcast[1]: same class name, index bad locator practice, but no other option (for now)
+    dropdown_name = (By.XPATH, "//div[@class='c-header-bar-nav__item__content js-header-item-content']/span")
     categories = (By.XPATH, "//div[@class='c-header-bar-nav__small-menu js-header-small-menu open']/ul/li")
     categoryName = (By.XPATH, "a/span")
 
@@ -31,6 +21,9 @@ class HomePage:
 
     def getNews(self):
         return self.driver.find_elements(*HomePage.news)
+
+    def checkDropdownName(self):
+        return self.driver.find_element(*HomePage.dropdown_name) # takes first element[0]
 
     def getCategories(self):
         return self.driver.find_elements(*HomePage.categories)
