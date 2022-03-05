@@ -7,15 +7,17 @@ from utilities.BaseClass import BaseClass
 class TestOne(BaseClass):
 
     def test_newsDesktop(self):
-        # if window_size == "desktop" or "tablet":
+        # if window_size == "desktop" or "tablet": # desktop and tablet resolutions share same class names
         #   run this method
+        self.driver.maximize_window()
+
         log = self.getLogger()
         homePage = HomePage(self.driver)
         log.info("Desktop/Tablet test:")
         log.info("Accepting cookies")
         homePage.acceptCookies().click() # accept cookies, in case any elements are hidden underneath
 
-        # since we used index for locating news element, best to check if dropdown is actually Nyheter,
+        # since we used index for locating news element(see below), best to check if dropdown is actually Nyheter,
         # in case a new dropdown element with same class is added before Nyheter (which would make Nyheter[1])
         dropdown_name = homePage.checkDropdownName().text
         assert dropdown_name == "Nyheter"
@@ -43,18 +45,23 @@ class TestOne(BaseClass):
 
         # The first two elements should be “Siste 24 timer” and “Leder”
         assert names[0] == "Siste 24 timer"
-        # assert names[1] == "Leder"  # AssertionError, second element is Alle pluss-artikler
+        assert names[1] == "Leder"  # AssertionError, second element is Alle pluss-artikler
 
 
     def test_newsMobile(self):
-        self.driver.set_window_size(360, 640) # mobile resolution, should be defined in conftest.py
         # if window_size == "mobile":
         #   run this method
+        self.driver.set_window_size(360, 640)  # mobile resolution
+
         self.driver.implicitly_wait(3) # need to wait for website to switch to mobile elements
 
         log = self.getLogger()
         homePage = HomePage(self.driver)
         log.info("Mobile test:")
+
+        dropdown_name = homePage.checkDropdownNameMobile().text
+        assert dropdown_name == "Nyheter"
+
         log.info("Clicking on Nyheter")
         homePage.getNewsMobile().click() # element is now clickable (no hover)
 
@@ -73,6 +80,6 @@ class TestOne(BaseClass):
             log.info(categoryName)
             names_mobile.append(categoryName)
 
-        # The first two elements should be “Siste 24 timer” and “Leder”.
+        # The first two elements should be “Siste 24 timer” and “Leder”
         assert names_mobile[0] == "Siste 24 timer"
-        # assert names_mobile[1] == "Leder"  # AssertionError, second element is Alle pluss-artikler
+        assert names_mobile[1] == "Leder"  # AssertionError, second element is Alle pluss-artikler

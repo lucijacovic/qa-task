@@ -1,6 +1,9 @@
 import pytest
 from selenium import webdriver
 
+from tests.test_news import TestOne
+from utilities.BaseClass import BaseClass
+
 driver = None
 
 
@@ -22,22 +25,24 @@ def setup(request):
     # other possible browsers: safari, microsoft edge, opera etc.
     driver.get("https://finansavisen.no/")
 
+    # # ask Filip how to implement this the 'right' way
+    # testOne = TestOne()
     # window_size = request.config.getoption("--window_size")
     # if window_size == "desktop":
-    #   driver.maximize_window()
-    #   TestOne(BaseClass).test_newsDesktop (would this work? or separate tests for each resolution?)
+    #     driver.maximize_window()
+    #     testOne.test_newsDesktop()
     # elif window_size == "tablet":
-    #   driver.set_window_size(1366, 768)
-    # upon doing some manual checks, tablet resolutions share same class names with desktop resolutions
-    #   TestOne(BaseClass).test_newsDesktop (?)
+    #     driver.set_window_size(1366, 768)
+    # # upon doing some manual checks, tablet resolutions share same class names with desktop resolutions
+    #     testOne.test_newsDesktop()
     # elif window_size == "mobile":
-    #   driver.set_window_size(360, 640)
-    #   TestOne(BaseClass).test_newsMobile (?)
+    #     driver.set_window_size(360, 640)
+    #     testOne.test_newsMobile()
 
-    driver.maximize_window()
     request.cls.driver = driver
     yield
     driver.close()
+
 
 # pasted code for screenshots when tests fail
 # commented cause not really needed, hard to tell from screenshots what went wrong in this case

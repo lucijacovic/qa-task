@@ -13,7 +13,7 @@ class BaseClass:
 
     def verifyDropdownMenuPresence(self):
         dropdown = WebDriverWait(self.driver, 3).until(expected_conditions.presence_of_element_located((By.XPATH, "//div[@class='c-header-bar-nav__small-menu js-header-small-menu open']/ul/li")), "Dropdown menu was not displayed after 3 seconds")
-    # ili samo do div?
+
     def verifyDropdownMenuPresenceMobile(self):
         dropdown_mobile = WebDriverWait(self.driver, 3).until(expected_conditions.presence_of_element_located((By.XPATH, "//div[@class='c-frontpagemobilenav__dropdown js-subnav-item toggled']/div/ul/li")), "Dropdown menu was not displayed after 3 seconds")
 
@@ -26,5 +26,5 @@ class BaseClass:
         if (logger.hasHandlers()): # clear double logs
             logger.handlers.clear()
         logger.addHandler(fileHandler)  # fileHandler object (file location)
-        logger.setLevel(logging.DEBUG)
+        logger.setLevel(logging.DEBUG) # INFO, DEBUG, ERROR, CRITICAL
         return logger
